@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import {Home} from './Home';
 import {Department} from './Department';
@@ -10,7 +10,7 @@ function App() {
     <BrowserRouter>
     <div className="App container">
       <h3 className="d-flex justify-content-center m-3">
-        React JS Frontend
+        Employee Department Data
       </h3>
         
       <nav className="navbar navbar-expand-sm bg-light navbar-dark">
